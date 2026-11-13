@@ -1,4 +1,4 @@
-// PokeSurvivor Bot loader (damhieu2808 · https://github.com/damhieu2808/PokeSurvivorTool)
+// PokeSurvivor Bot loader (damhieu2808 · https://github.com/NhanNguyen1612)
 // For browsers without Chrome extensions (Android / iOS): a bookmarklet runs this on pokesurvivor.com (or pokesurvivor.doofcraft.com),
 // it fetches the released files from the public repo and runs them in the same order as manifest.json.
 // This runs in the page's own context, so it is blocked by pokesurvivor.com's CSP (script-src 'self') and only works
